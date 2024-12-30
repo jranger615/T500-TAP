@@ -1,12 +1,12 @@
 <H1>T500 TAP Guide for Stock HOT END</h1> 
 I am providing instructions for a 3D Printed OptTap V2.4 RC8 or the CHAOTICLAB Voron Tap V2.0. Below I will list the details of Each/
 
-<h3>OptTap V2.4 RC8</h3>
+<h4>OptTap V2.4 RC8</h4>
 Cheaper 
 More Assembly
 You loose 20MM of Y Axis Room
 
-<h3>CHAOTICLAB Voron Tap V2.0</h3>
+<h4>CHAOTICLAB Voron Tap V2.0</h4>
 Precise Engineering
 Only 2 Parts to Print
 Only Requires 4 m3 Heated Inserts
@@ -19,14 +19,14 @@ Brown = 24v
 Blue = Ground
 Black = Signal.  
 
-<h3>>OptTap V2.4 RC8</h3>
+<h4>OptTap V2.4 RC8</h4>
 Cut your Sensor Wire off or Order new 4 pin connectos
 Stock Fytec Kit Connections
 Brown Wire > Red Wire 
 Blue Wire > Black Wire
 Blac Wire > Green Wire
 
-<h3>>CHAOTICLAB Voron Tap V2.0</h3>
+<h4>CHAOTICLAB Voron Tap V2.0</h4>
 Cut your Sensor Wire off or Order new 4 pin connectos
 Brown Wire > Red Wire 
 Blue Wire > Black Wire
