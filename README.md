@@ -15,20 +15,20 @@ Loose 24MM of T Axis Room
 
 <h2>Wiring the TAP Sensor</h2>
 The T500 Stock 4 Pin Probe Connector is as Follows:
-Brown = 24v 
-Blue = Ground
-Black = Signal.  
+<P>Brown = 24v </P>
+<P>Blue = Ground</P>
+<P>Black = Signal </P> 
 
 <h4>OptTap V2.4 RC8</h4>
 Cut your Sensor Wire off or Order new 4 pin connectos
 Stock Fytec Kit Connections
-Brown Wire > Red Wire 
-Blue Wire > Black Wire
-Blac Wire > Green Wire
+<P>Brown Wire > Red Wire </P>
+<P>Blue Wire > Black Wire</P>
+<P>Blac Wire > Green Wire</P>
 
 <h4>CHAOTICLAB Voron Tap V2.0</h4>
 Cut your Sensor Wire off or Order new 4 pin connectos
-Brown Wire > Red Wire 
-Blue Wire > Black Wire
-Black Wire > Yellow Wire
+<P>Brown Wire > Red Wire </P>
+<P>Blue Wire > Black Wire</P>
+<P>Black Wire > Yellow Wire</P>
 
