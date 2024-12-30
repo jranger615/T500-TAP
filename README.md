@@ -2,19 +2,23 @@
 I am providing instructions for a 3D Printed OptTap V2.4 RC8 or the CHAOTICLAB Voron Tap V2.0. Below I will list the details of Each/
 
 <h4>OptTap V2.4 RC8</h4>
-Cheaper 
-More Assembly
-You loose 20MM of Y Axis Room
-
+<ol>
+<li>Cheaper </li>
+<li>More Assembly</li>
+<li>You loose 20MM of Y Axis Room</li>
+</ol>
 <h4>CHAOTICLAB Voron Tap V2.0</h4>
-Precise Engineering
-Only 2 Parts to Print
-Only Requires 4 m3 Heated Inserts
-Loose 24MM of T Axis Room
+<ol>
+<li>Precise Engineering</li>
+<li>Only 2 Parts to Print</li>
+<li>Only Requires 4 m3 Heated Inserts</li>
+<li>Loose 24MM of T Axis Room</li>
+</ol>
 
 
 <h2>Wiring the TAP Sensor</h2>
 The T500 Stock 4 Pin Probe Connector is as Follows:
+
 <P>Brown = 24v </P>
 <P>Blue = Ground</P>
 <P>Black = Signal </P> 
