@@ -2,6 +2,7 @@
 I am providing instructions for a 3D Printed OptTap V2.4 RC8 or the CHAOTICLAB Voron Tap V2.0. Below I will list the details of Each/
 
 <h4>OptTap V2.4 RC8</h4>
+https://github.com/VoronDesign/Voron-Tap/tree/main/OptoTap
 <ul>
 <li>Cheaper </li>
 <li>More Assembly</li>
