@@ -51,7 +51,7 @@ Cut your Sensor Wire off or Order new 4 pin connectos
 <h2>probe changes</h2>
 
 <br />[probe]
-<br />pin:^!PE8
+<br />pin:^!PE8  #This was changed from Inital Sensors PE8. We invert the polarity (!) and set pull up (^)
 <br />x_offset: 0
 <br />y_offset: 0
 <br />#z_offset: -1.42
