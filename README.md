@@ -46,7 +46,7 @@ Cut your Sensor Wire off or Order new 4 pin connectos
 <h2>Stepper_y changes</h2>
 <br />position_endstop: 74 #adjustment for New Offset of Y Axis oddly this brings the hotend to the end of the thermal sheet. You coudl set this to 50 to get to closer to the front of the bed
 <br />position_min: 74 #adjustment for New Offset of Y Axis, oddly this brings the hotend to the end of the thermal sheet. You coudl set this to 50 to get to closer to the front of the bed
-<br />position_max: 500
+<br />position_max: 584
 
 <h2>probe changes</h2>
 
