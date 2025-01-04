@@ -44,17 +44,17 @@ Cut your Sensor Wire off or Order new 4 pin connectos
 
 
 <h2>Stepper_y changes</h2>
-<br />position_endstop: 23
-<br />position_min: 23
+<br />position_endstop: 23 #adjustment for New Offset of Y Axis
+<br />position_min: 23 #adjustment for New Offset of Y Axis
 <br />position_max: 500
 
 <h2>probe changes</h2>
 
 <br />[probe]
 <br />pin:^!PE8  #This was changed from Inital Sensors PE8. We invert the polarity (!) and set pull up (^)
-<br />x_offset: 0
-<br />y_offset: 0
-<br />#z_offset: -1.42
+<br />x_offset: 0 #Adjust to 0 as Nozzle is now the sensor
+<br />y_offset: 0 #Adjust to 0 as Nozzle is now the sensor
+<br />#z_offset: -1.42 #Comment Out and Redo your Z_offset in calibration
 <br />speed: 10.0
 <br />samples: 3
 <br />samples_result: median
