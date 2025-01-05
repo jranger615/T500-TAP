@@ -77,3 +77,16 @@ Cut your Sensor Wire off or Order new 4 pin connectos
  <br />           TEMPERATURE_WAIT SENSOR=extruder MAXIMUM={ MAX_TEMP }
  <br />       {% endif %}
 <br />    {% endif %}
+
+<h2>CANCEL and END MACROS </h2>
+Check You Positioning on these Macros. Mine for instance has G1 X10 Y490 F6000, Y490 is too MUCH with the new config
+<br />[gcode_macro CANCEL_PRINT]
+<br />G1 X10 Y475 F6000
+<br />
+<br />[gcode_macro PAUSE] 
+<br />{% set y = params.Y|default(470) %}      #edit to your park position
+<br />
+<br />[gcode_macro PRINT_END]
+<br />G1 X10 Y475 ;Present print
+
+
