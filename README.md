@@ -1,4 +1,4 @@
-<H1>T500 TAP Guide for Stock HOT END</h1> 
+ <H1>T500 TAP Guide for Stock HOT END</h1> 
 I am providing instructions for a 3D Printed OptTap V2.4 RC8 or the CHAOTICLAB Voron Tap V2.0. Below I will list the details of Each/
 
 <h4>OptTap V2.4 RC8</h4>
@@ -79,7 +79,8 @@ Cut your Sensor Wire off or Order new 4 pin connectos
 <br />    {% endif %}
 
 <h2>CANCEL and END MACROS </h2>
-Check You Positioning on these Macros. Mine for instance has G1 X10 Y490 F6000, Y490 is too MUCH with the new config. These will either be in your Macros.CFG or Printer.CFG
+Check Your Positioning on these Macros. Mine for instance has G1 X10 Y490 F6000, Y490 is too MUCH with the new config. These will either be in your Macros.CFG or Printer.CFG
+<br />
 <br />[gcode_macro CANCEL_PRINT]
 <br />G1 X10 Y475 F6000
 <br />
