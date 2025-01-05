@@ -79,7 +79,7 @@ Cut your Sensor Wire off or Order new 4 pin connectos
 <br />    {% endif %}
 
 <h2>CANCEL and END MACROS </h2>
-Check You Positioning on these Macros. Mine for instance has G1 X10 Y490 F6000, Y490 is too MUCH with the new config
+Check You Positioning on these Macros. Mine for instance has G1 X10 Y490 F6000, Y490 is too MUCH with the new config. These will either be in your Macros.CFG or Printer.CFG
 <br />[gcode_macro CANCEL_PRINT]
 <br />G1 X10 Y475 F6000
 <br />
