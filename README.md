@@ -93,7 +93,7 @@ Check Your Positioning on these Macros. Mine for instance has G1 X10 Y490 F6000,
 G1 X10 Y475 F6000
 
 [gcode_macro PAUSE] 
-{% set y = params.Y|default(470) %}      #edit to your park position
+{% set y = params.Y|default(475) %}      #edit to your park position
 
 [gcode_macro PRINT_END]
 G1 X10 Y475 ;Present print
