@@ -65,7 +65,7 @@ speed: 10.0
 samples: 3
 samples_result: median
 sample_retract_dist: 3.0
->samples_tolerance: 0.006
+samples_tolerance: 0.006
 samples_tolerance_retries: 10
 activate_gcode:
     {% set PROBE_TEMP = 275 %}
