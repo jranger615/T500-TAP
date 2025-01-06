@@ -1,6 +1,10 @@
  <H1>T500 TAP Guide for Stock HOT END</h1> 
 I am providing instructions for a 3D Printed OptTap V2.4 RC8 or the CHAOTICLAB Voron Tap V2.0. Below I will list the details of Each/
-
+```
+position_endstop: -30 #adjustment for New Offset of Y Axis oddly this brings the hotend to the end of the thermal sheet. You coudl set this to 50 to get to closer to the front of the bed
+position_min: -30 #adjustment for New Offset of Y Axis, oddly this brings the hotend to the end of the thermal sheet. You coudl set this to 50 to get to closer to the front of the bed
+position_max: 503
+```
 <h4>OptTap V2.4 RC8</h4>
 https://github.com/VoronDesign/Voron-Tap/tree/main/OptoTap
 <ul>
