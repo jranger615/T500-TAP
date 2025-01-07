@@ -1,6 +1,8 @@
  <H1>T500 TAP Guide for Stock HOT END</h1> 
 I am providing instructions for a 3D Printed OptTap V2.4 RC8 or the CHAOTICLAB Voron Tap V2.0. Below I will list the details of Each/
 
+> [!IMPORTANT]
+>All changes ive made are based off previous cfg files using KAMP developed by Trist0ne via https://github.com/Trist0ne/T500-Configuration-Public/tree/main. Please make sure you start with is configurations before you continue or some of this may not work 
 
 
 <h4>OptTap V2.4 RC8</h4>
@@ -84,7 +86,7 @@ activate_gcode:
         {% endif %}
     {% endif %}
 ```
-<h2>CANCEL and END MACROS </h2>
+<h2>MACRO CHANGES</h2>
 Check Your Positioning on these Macros. Mine for instance has G1 X10 Y490 F6000, Y490 is too MUCH with the new config. These will either be in your Macros.CFG or Printer.CFG
 <br />
 
