@@ -1,5 +1,6 @@
  <H1>T500 TAP Guide for Stock HOT END</h1> 
-I am providing instructions for a 3D Printed OptTap V2.4 RC8 or the CHAOTICLAB Voron Tap V2.0. Below I will list the details of Each/
+I am providing instructions for a 3D Printed OptTap V2.4 RC8 or the CHAOTICLAB Voron Tap V2.0. Below I will list the details of Each
+<br />
 
 > [!IMPORTANT]
 >All changes ive made are based off previous cfg files using KAMP developed by Trist0ne via https://github.com/Trist0ne/T500-Configuration-Public/tree/main. Please make sure you start with is configurations before you continue or some of this may not work 
