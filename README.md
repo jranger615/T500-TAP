@@ -91,10 +91,14 @@ Check Your Positioning on these Macros. Mine for instance has G1 X10 Y490 F6000,
 ```ruby
 [gcode_macro CANCEL_PRINT]
 G1 X10 Y475 F6000
+```
 
+```ruby
 [gcode_macro PAUSE] 
 {% set y = params.Y|default(475) %}      #edit to your park position
+```
 
+```ruby
 [gcode_macro PRINT_END]
 G1 X10 Y475 ;Present print
 ```
