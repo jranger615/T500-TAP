@@ -14,7 +14,7 @@ https://github.com/VoronDesign/Voron-Tap/tree/main/OptoTap
 <li>More Assembly</li>
 <li>You loose 20MM of Y Axis Room</li>
 </ul>
-Parts Needed:
+<b>Parts Needed:</b>
 <br />https://www.amazon.com/dp/B0CSYY24RW
 <br />https://www.amazon.com/GBYMIUY-Refrigerator-Magnets-Cylinder-Whiteboard
 
