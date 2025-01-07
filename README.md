@@ -3,7 +3,7 @@ I am providing instructions for a 3D Printed OptTap V2.4 RC8 or the CHAOTICLAB V
 <br />
 
 > [!IMPORTANT]
->All changes ive made are based off previous cfg files using KAMP developed by Trist0ne via https://github.com/Trist0ne/T500-Configuration-Public/tree/main. Please make sure you start with is configurations before you continue or some of this may not work 
+>All changes ive made are based off previous cfg files using KAMP developed by Trist0ne via https://github.com/Trist0ne/T500-Configuration-Public/tree/main. Please make sure you start with his configurations before you continue or some of this may not work 
 
 
 <h4>OptTap V2.4 RC8</h4>
