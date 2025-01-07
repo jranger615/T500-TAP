@@ -51,7 +51,7 @@ Cut your Sensor Wire off or Order new 4 pin connectos
 </ul>
 
 <h2>X EndStop Sensor Move</h2>
-For this modificaiton, move the X end stop sensor from the back of the  X Axis, to the front bottom screw on as shown. I used a washer or 2 to help center the tap Adapter extension that will trigger this sensor.
+For this modificaiton, move the X end stop sensor from the back of the  X Axis, to the front bottom screw as shown. I used a washer or 2 to help center the tap Adapter extension that will trigger this sensor.
 <img src="https://github.com/user-attachments/assets/97bec78c-74b7-47c7-9558-208e333e2462"</img>
 
 <h2>Voron Tap Assembly</h2>
