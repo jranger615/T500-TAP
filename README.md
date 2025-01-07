@@ -56,7 +56,8 @@ For this modificaiton, move the X end stop sensor from the back of the  X Axis, 
 
 <h2>Voron Tap Assembly</h2>
 <img src="https://github.com/jranger615/T500-TAP/blob/main/VORON%20CNC%20STL/photos/Tap%20Assembly.jpg?raw=true"</img>
-
+<h2>HotEnd Changes</h2>
+<img src="https://github.com/jranger615/T500-TAP/blob/main/photos/HotEnd%20Changes.jpg?raw=true"</img>
 
 <h2>Stepper_y changes</h2>
 
