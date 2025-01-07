@@ -50,6 +50,11 @@ Cut your Sensor Wire off or Order new 4 pin connectos
 <li>Black Wire > Yellow Wire</li>
 </ul>
 
+
+<h2>Voron Tap Assembly</h2>
+<img src="https://github.com/jranger615/T500-TAP/blob/main/VORON%20CNC%20STL/photos/Tap%20Assembly.jpg?raw=true"</img>
+
+
 <h2>Stepper_y changes</h2>
 
 ```ruby
