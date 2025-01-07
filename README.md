@@ -9,15 +9,16 @@ I am providing instructions for a 3D Printed OptTap V2.4 RC8 or the CHAOTICLAB V
 <br />
 <h4>OptTap V2.4 RC8</h4>
 https://github.com/VoronDesign/Voron-Tap/tree/main/OptoTap
-
-Parts:
-https://www.amazon.com/dp/B0CSYY24RW
-https://www.amazon.com/GBYMIUY-Refrigerator-Magnets-Cylinder-Whiteboard
 <ul>
 <li>Cheaper </li>
 <li>More Assembly</li>
 <li>You loose 20MM of Y Axis Room</li>
 </ul>
+Parts Needed:
+<br />https://www.amazon.com/dp/B0CSYY24RW
+<br />https://www.amazon.com/GBYMIUY-Refrigerator-Magnets-Cylinder-Whiteboard
+
+
 <h4>CHAOTICLAB Voron Tap V2.0</h4>
 <ul>
 <li>Precise Engineering</li>
