@@ -12,7 +12,7 @@ https://github.com/VoronDesign/Voron-Tap/tree/main/OptoTap
 <ul>
 <li>Cheaper </li>
 <li>More Assembly</li>
-<li>You loose 20MM of Y Axis Room</li>
+<li>5MM less Y Axis loss over Chaoticlabs</li>
 </ul>
 <b>Parts Needed:</b>
 <br />https://www.amazon.com/dp/B0CSYY24RW
